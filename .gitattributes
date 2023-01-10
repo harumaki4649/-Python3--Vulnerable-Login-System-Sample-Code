@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+これは実際に脆弱性のあるログインシステムです。
+このサンプルを生かして安全なログインシステムの構築などに役立ててほしいです。
